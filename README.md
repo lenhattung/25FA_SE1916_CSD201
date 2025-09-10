@@ -37,3 +37,7 @@ Nội dung workshop ngày (Ngày 17/09/2025 hay ngày 20/9/2025)(Hội Trường
 * Hướng dẫn trình bày đề cương nghiên cứu trên Overleaf.
 * Giới thiệu AiTA Lab và các dự án đang triển khai.
 * Giới thiệu các giảng viên và lĩnh vực nghiên cứu.
+
+### Videos:
+
+* Slot 1:  
