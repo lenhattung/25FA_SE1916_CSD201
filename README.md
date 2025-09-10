@@ -27,3 +27,13 @@
 * Assignment (AS) on-going x2      = 20.00%
 * Practical Exam practical exam x1 = 30.00%
 * Final exam Final exam x1 		   = 30.00%
+
+### Triển khai chương trình Future Research Foundation
+
+Nội dung workshop ngày (Ngày 17/09/2025 hay ngày 20/9/2025)(Hội Trường)
+
+* Kỹ năng và phương pháp nghiên cứu khoa học.
+* Hướng dẫn viết đề cương nghiên cứu / báo cáo khoa học.
+* Hướng dẫn trình bày đề cương nghiên cứu trên Overleaf.
+* Giới thiệu AiTA Lab và các dự án đang triển khai.
+* Giới thiệu các giảng viên và lĩnh vực nghiên cứu.
