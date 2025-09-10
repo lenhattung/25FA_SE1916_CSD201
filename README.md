@@ -19,3 +19,11 @@
 
 * JDK 8: https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
 * Netbeans 13: https://netbeans.apache.org/front/main/download/nb13/nb13/
+
+### Đánh giá môn học:
+
+* Category Type Part Weight
+* Progress test (PT) quiz x2       = 20.00%
+* Assignment (AS) on-going x2      = 20.00%
+* Practical Exam practical exam x1 = 30.00%
+* Final exam Final exam x1 		   = 30.00%
