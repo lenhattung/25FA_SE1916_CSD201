@@ -9,5 +9,8 @@
 * Edunext: https://fu-edunext.fpt.edu.vn/
 * Zalo: https://zalo.me/g/gcmjpj020
 
+### Tài nguyên:
 
+* Syllabus: https://flm.fpt.edu.vn/gui/role/student/SyllabusDetails?sylID=10368
+* Slides: https://flm.fpt.edu.vn/download/863/S/1_CSD201.zip
 
