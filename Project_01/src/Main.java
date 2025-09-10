@@ -16,5 +16,8 @@ public class Main {
         }
         
         list1.treverse();
+        
+        // Hãy sáng tao MyList2 => chi chap nhan nhung ban sinh vien co 
+        // gpa >=5.0
     }
 }
