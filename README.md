@@ -14,3 +14,8 @@
 * Syllabus: https://flm.fpt.edu.vn/gui/role/student/SyllabusDetails?sylID=10368
 * Slides: https://flm.fpt.edu.vn/download/863/S/1_CSD201.zip
 * Src: https://github.com/lenhattung/25FA_SE1916_CSD201
+
+### Công cụ lập trình
+
+* JDK 8: https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
+* Netbeans 13: https://netbeans.apache.org/front/main/download/nb13/nb13/
