@@ -19,5 +19,11 @@ public class Main {
         
         // Hãy sáng tao MyList2 => chi chap nhan nhung ban sinh vien co 
         // gpa >=5.0
+        
+        MyList2 list2 = new MyList2();
+        list2.add(new Student("01", "Le Nhat Tung", 9.9));
+        list2.add(new Student("02", "Nguyen Van A", 4));
+        list2.add(new Student("03", "Gia dinh HAHA", 8));
+        list2.treverse();
     }
 }
