@@ -40,4 +40,5 @@ Nội dung workshop ngày (Ngày 17/09/2025 hay ngày 20/9/2025)(Hội Trường
 
 ### Videos:
 
-* Slot 1:  
+* Slot 1:  https://youtu.be/4bA3EAtT62U
+* Slot 2: https://youtu.be/aKrow2-AwHo
