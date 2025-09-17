@@ -8,9 +8,8 @@
  * @author tungi
  */
 public class Node {
-    Student info;
-    Node next;
-    Node prev;
+    private Student info;
+    private Node next;
 
     public Node() {
     }
