@@ -18,11 +18,17 @@ public class Main {
         System.out.println(stack.peek());
 
         // test pop
+        //        System.out.println("\n>>> pop students ra khỏi stack:");
+        //        while (!stack.isEmpty()) {
+        //            Student st = stack.pop();
+        //            System.out.println("pop: " + st);
+        //        }
+        System.out.println("Size: " + stack.size());
         System.out.println("\n>>> pop students ra khỏi stack:");
-        while (!stack.isEmpty()) {
-            Student st = stack.pop();
-            System.out.println("pop: " + st);
-        }
+        System.out.println("pop: " + stack.pop());
+        System.out.println("Size: " + stack.size());      
+        
+        stack.clear();
 
         // test stack rỗng
         System.out.println("\n>>> thử pop khi stack rỗng:");

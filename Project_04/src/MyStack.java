@@ -10,9 +10,11 @@
 public class MyStack {
 
     Node top;
+    int count = 0;
 
     public MyStack() {
         top = null;
+        count = 0;
     }
 
     public boolean isEmpty() {
@@ -22,6 +24,7 @@ public class MyStack {
     public void push(Student st) {
         Node newNode = new Node(st, top);
         top = newNode;
+        count++;
     }
 
     // Utility function to pop top element from the stack
@@ -32,6 +35,7 @@ public class MyStack {
         Student temp = top.getInfo();
         top = top.getNext();
 
+        count--;
         return temp;
     }
 
@@ -44,5 +48,24 @@ public class MyStack {
         // top = top.getNext();
 
         return temp;
+    }
+    
+    // size
+    //    public int size(){
+    //        int count = 0;
+    //        Node temp = top;
+    //        while(temp!=null){
+    //            count++;
+    //            temp=temp.getNext();
+    //        }
+    //        return count;
+    //    }
+    public int size(){
+        return count;
+    }
+    
+    public void clear(){
+        top = null;
+        count =0;
     }
 }
