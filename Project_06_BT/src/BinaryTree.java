@@ -34,7 +34,7 @@ public class BinaryTree {
     }
 
     public void postOrder() {
-        preOrder(root);
+        postOrder(root);
     }
 
     public void postOrder(Node p) {
@@ -48,7 +48,7 @@ public class BinaryTree {
     }
 
     public void inOrder() {
-        preOrder(root);
+        inOrder(root);
     }
 
     public void inOrder(Node p) {
