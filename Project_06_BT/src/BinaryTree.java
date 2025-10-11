@@ -42,8 +42,8 @@ public class BinaryTree {
         if (p == null) {
             return;
         }
-        preOrder(p.left);
-        preOrder(p.right);
+        postOrder(p.left);
+        postOrder(p.right);
         visit(p);
     }
 
@@ -56,9 +56,9 @@ public class BinaryTree {
         if (p == null) {
             return;
         }
-        preOrder(p.left);
+        inOrder(p.left);
         visit(p);
-        preOrder(p.right);
+        inOrder(p.right);
     }
 
     void breadth() {
