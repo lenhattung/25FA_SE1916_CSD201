@@ -19,6 +19,7 @@ public class BinaryTree {
         System.out.print(p.info + " ");
     }
 
+    public 
     public void preOrder() {
         preOrder(root);
     }
